@@ -1,0 +1,15 @@
+{
+  "name": "devday Environment",
+  "image": "node:19",
+  "workspaceFolder": "/workspaces/openaidevday-dev-docs-playground",
+  "extensions": [
+    "dev-docs.dev-docs"
+  ],
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "javascript/devday/devdayVision.js"
+      ]
+    }
+  }
+}
