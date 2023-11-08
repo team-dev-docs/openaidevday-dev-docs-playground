@@ -9,7 +9,12 @@ OpenAi just had their dev day yesterday where they unveiled a couple new models 
 -Assistants(their answers to agents)
 -Enforceable JSON mode to make it easier for developers to use the outputs in production code.
 
-We are going to be trying all of these in a couple of minutes.
+We are going to be trying all of these in a couple of minutes.  After this tutorial also checkout their update docs to learn more: 
+
+General Docs: https://platform.openai.com/docs/introduction
+GPT4 with Vision: https://platform.openai.com/docs/guides/vision/vision
+Assistants: https://platform.openai.com/docs/assistants/overview
+JSON Mode: https://platform.openai.com/docs/guides/text-generation/json-mode
 
 ## Prereq: export your API Key
 

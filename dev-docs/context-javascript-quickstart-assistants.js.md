@@ -8,8 +8,10 @@ Run the code to create an assistant this aware of one code file called <code>sup
 
 In the same <code>quickstart </code>folder Just run:
 
-```
+```devdocs_run
+
 node assistants.js
+
 ```
 
 Then check if it was created at [https://platform.openai.com/assistants](https://platform.openai.com/assistants).

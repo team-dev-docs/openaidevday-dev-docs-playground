@@ -9,6 +9,8 @@ Notice in the code you specify response_format and you also have to mention JSON
 
 In the same <code>quickstart </code>folder Just run:
 
-```
+```devdocs_run
+
 node jsonMode.js
+
 ```
