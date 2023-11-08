@@ -31,3 +31,6 @@ Run the example to try it out:
 node vision.js
 ```
 
+You should get a response explain this image from wikipedia.  Now let's try the next tutorial.
+
+
