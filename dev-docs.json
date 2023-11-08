@@ -1,3 +1,6 @@
 {
-  "tutorial": true
+  "tutorial": true,
+  "tutorialOrder": {
+    "javascript/quickstart": ["vison.js", "assistants.js", "jsonMode.js"]
+  }
 }
