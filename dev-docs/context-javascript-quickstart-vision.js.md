@@ -21,6 +21,14 @@ We are going to be trying all of these in a couple of minutes. After this tutori
 
 # Tutorial Time
 
+## Prereq: cd into the right folder
+
+```devdocs_run
+
+cd javascript/quickstart
+
+```
+
 ## Prereq: export your API Key
 
 
@@ -29,14 +37,6 @@ Before we start the quickstart export API_KEY
 ```
 
 export OPENAI_API_KEY=&lt;YOUR API KEY&gt;
-
-```
-
-## Prereq: cd into the right folder
-
-```devdocs_run
-
-cd javascript/quickstart
 
 ```
 
