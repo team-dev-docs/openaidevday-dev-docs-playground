@@ -11,13 +11,13 @@ OpenAi just had their dev day yesterday where they unveiled a couple new models 
 
 We are going to be trying all of these in a couple of minutes. After this tutorial also checkout their update docs to learn more:
 
-![General OPENAI Docs](https://platform.openai.com/docs/introduction)
+[General OPENAI Docs](https://platform.openai.com/docs/introduction)
 
-![GPT4 with Vison](https://platform.openai.com/docs/guides/vision/vision)
+[GPT4 with Vison](https://platform.openai.com/docs/guides/vision/vision)
 
-![Assistants](https://platform.openai.com/docs/assistants/overview)
+[Assistants](https://platform.openai.com/docs/assistants/overview)
 
-![JSON Mode](https://platform.openai.com/docs/guides/text-generation/json-mode)
+[JSON Mode](https://platform.openai.com/docs/guides/text-generation/json-mode)
 
 # Tutorial Time
 
