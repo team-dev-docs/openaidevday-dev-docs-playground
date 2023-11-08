@@ -8,7 +8,7 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "javascript/quickstart/quickstart.js"
+        "javascript/quickstart/vision.js"
       ]
     }
   }
