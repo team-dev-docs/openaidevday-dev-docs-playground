@@ -1,6 +1,16 @@
 import OpenAI from "openai";
+import { promises as fs } from 'fs';
 
 const openai = new OpenAI();
+
+async function writeToFile(filename, content) {
+  try {
+      await fs.writeFile(filename, content);
+      console.log(`Content written to ${filename}`);
+  } catch (error) {
+      console.error('Error writing to file:', error);
+  }
+}
 
 async function main() {
   const response = await openai.chat.completions.create({
@@ -20,5 +30,7 @@ async function main() {
     ],
   });
   console.log(response.choices[0]);
+  writeToFile("../response.txt", JSON.stringify(response.choices[0]))
+  
 }
 main();

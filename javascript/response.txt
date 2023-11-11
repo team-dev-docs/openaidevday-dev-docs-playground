@@ -1,0 +1,1 @@
+{"message":{"role":"assistant","content":"This image depicts a wooden boardwalk extending through a lush green field with tall grass"},"finish_details":{"type":"max_tokens"},"index":0}

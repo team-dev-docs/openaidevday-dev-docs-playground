@@ -1,5 +1,6 @@
 {
   "tutorial": true,
+  "postScript": true,
   "tutorialOrder": {
     "javascript/quickstart": ["vision.js", "assistants.js", "jsonMode.js"]
   }
