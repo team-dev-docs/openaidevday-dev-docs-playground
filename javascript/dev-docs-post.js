@@ -29,17 +29,17 @@ async function main() {
             
             const output = JSON.stringify({
                 modal: "yes", 
-                title: "yujian is cool", 
+                title: "Hey this is dyanmic", 
                 content: `This is the assistant stuff ${response}`, 
-                link: 'https://zilliz.com'
+                link: 'https://openai.com'
             });
             console.log(output);
         } else {
             const output = JSON.stringify({
                 modal: "yes", 
-                title: "yujian is cool", 
+                title: "Hey this is dyanmic", 
                 content: argv.command, 
-                link: 'https://zilliz.com'
+                link: 'https://openai.com'
             });
             console.log(output);
         }
