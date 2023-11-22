@@ -11,5 +11,9 @@
         "javascript/quickstart/vision.js"
       ]
     }
+  },
+   "containerEnv": {
+    "TUTORIAL": "javascript/quickstart",
+    "TUTORIAL_FILE": "javascript/quickstart/vision.js"
   }
 }
